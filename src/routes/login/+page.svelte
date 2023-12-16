@@ -1,5 +1,3 @@
-<script src="script.js"></script>
-
 <h2>Test Login with Session #1: Sign in/up Form</h2>
 <div class="container" id="container">
   <div class="form-container sign-up-container">
@@ -205,6 +203,8 @@
     width: 768px;
     max-width: 100%;
     min-height: 480px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .form-container {
